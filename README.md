@@ -33,7 +33,7 @@ The project involved:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/YotamGaash/LLMs-overconfidence-debiasing.git
     cd LLM_Bias_Project
     ```
 
