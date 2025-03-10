@@ -1,0 +1,13 @@
+accelerate
+bitsandbytes
+peft
+transformers
+num2words
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+re
+gc
+os
